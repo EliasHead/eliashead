@@ -5,6 +5,7 @@
 [![eliashead GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliashead.costa@gmail.com)
 
 ![eliashead GitHub stats](https://github-readme-stats.vercel.app/api?username=eliashead&show_icons=true&theme=dracula&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashead&layout=compact&langs_count=168&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
